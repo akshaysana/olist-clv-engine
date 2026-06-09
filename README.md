@@ -56,3 +56,7 @@ Olist Brazilian E-Commerce — Kaggle
 9 relational tables, 100,000+ orders, 2016–2018
 Real data. Real mess. Real insights.
 Dataset Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+Note: olist_order_reviews_clean_dataset.csv is a cleaned version 
+of the original reviews file with 814 duplicate review_ids removed. 
+Run cleaner.py before features.py to generate this file.
